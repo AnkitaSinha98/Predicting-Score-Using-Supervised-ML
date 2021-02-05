@@ -24,9 +24,8 @@ Project is created with:
 * sklearn 0.0
   
 ## YouTube
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.linkedin.com%2Fcompany%2Fthe-sparks-foundation&psig=AOvVaw3l2YdwQhQu-NhV1aZdXO9P&ust=1612634907075000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDT7q2r0-4CFQAAAAAdAAAAABAD" alt="YouTube Link" width="240" height="180" border="10"/></a>
 
 ## Setup
 To run this project, install it locally using conda or pip (or use Anaconda Navigator to install the libraries packages and notebook).
