@@ -7,8 +7,8 @@
 * [YouTube](#youtube)
 
 ## General info
-Predict the percentage of a student based on the number of study hours.
-This is a simple linear regression that involves just 2 variables.
+1. Predict the percentage of a student based on the number of study hours.
+2. This is a simple linear regression that involves just 2 variables.
 	
 ## Technologies
 Project is created with:
