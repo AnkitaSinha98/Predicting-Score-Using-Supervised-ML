@@ -20,7 +20,7 @@ Project is created with:
 * pandas 1.0.5
 * numpy 1.18.5
 * matplotlib 3.3.2
-
+* sklearn 0.0
   
 ## YouTube
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
