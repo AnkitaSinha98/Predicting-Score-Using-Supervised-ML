@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Libraries](#libraries)
 * [Setup](#setup)
-* [Youtube Link](#youtube link)
+* [Youtube](#youtube)
 
 ## General info
 Predict the percentage of a student based on the number of study hours.
