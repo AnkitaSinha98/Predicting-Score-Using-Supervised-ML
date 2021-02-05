@@ -16,9 +16,9 @@ Project is created with:
 * Python: 3.8.3
 
 ## Libraries
-* pandas
-* numpy
-* matplotlib
+* pandas 1.0.5
+* numpy 1.18.5
+* matplotlib 3.3.2
 
   
 ## YouTube
@@ -27,7 +27,7 @@ Project is created with:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Setup
-To run this project, install it locally using conda (Anaconda 3) or pip (or use Anaconda Navigator to install the libraries packages and notebook).
+To run this project, install it locally using conda or pip (or use Anaconda Navigator to install the libraries packages and notebook).
 
 ```
 $ conda install python=3.8.3
