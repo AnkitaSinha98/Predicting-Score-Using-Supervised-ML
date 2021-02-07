@@ -4,6 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Algorithm](#algorithm)
 * [Libraries](#libraries)
 * [Setup](#setup)
 * [YouTube](#youtube)
@@ -16,6 +17,9 @@
 Project is created with:
 * Jupyter-Notebook: 6.0.3 (IDE) 
 * Python: 3.8.3
+
+## Algorithm
+* Linear Regression and Supervised Learning Technique
 
 ## Libraries
 * pandas 1.0.5
