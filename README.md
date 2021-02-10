@@ -1,5 +1,5 @@
 # Predicting-Score-Using-Supervised-ML
-### Task #1 by The Sparks Foundation
+### Task #1 by The Sparks Foundation (GRIPFEB21)
 
 ## Table of contents
 * [General info](#general-info)
