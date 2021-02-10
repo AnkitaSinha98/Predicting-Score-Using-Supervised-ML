@@ -6,8 +6,8 @@
 * [Technologies](#technologies)
 * [Algorithm](#algorithm)
 * [Libraries](#libraries)
-* [Setup](#setup)
 * [YouTube](#youtube)
+* [Setup](#setup)
 
 ## General info
 1. Predict the percentage of a student based on the number of study hours.
